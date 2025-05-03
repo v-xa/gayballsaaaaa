@@ -6,11 +6,11 @@ gay
 
 
 
-local Release = "gay v3"
+local Release = "Release 1B"
 local NotificationDuration = 6.5
-local RayfieldFolder = "ohio"
+local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
-local ConfigurationExtension = ".pmo"
+local ConfigurationExtension = ".rfld"
 local RayFieldQuality = {}
 
 local RayfieldLibrary = {
