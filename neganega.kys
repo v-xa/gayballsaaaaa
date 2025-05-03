@@ -6,7 +6,7 @@ gay
 
 
 
-local Release = ":3"
+local Release = "gay v3"
 local NotificationDuration = 6.5
 local RayfieldFolder = "ohio"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
